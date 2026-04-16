@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{EF0B1DFD-D31E-7257-029C-852535A6DC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.flipbookgames.scriptinspector3", "com.flipbookgames.scriptinspector3.csproj", "{00994B77-CC1D-A49B-3468-005BEE259B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0B1DFD-D31E-7257-029C-852535A6DC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0B1DFD-D31E-7257-029C-852535A6DC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0B1DFD-D31E-7257-029C-852535A6DC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0B1DFD-D31E-7257-029C-852535A6DC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00994B77-CC1D-A49B-3468-005BEE259B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00994B77-CC1D-A49B-3468-005BEE259B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00994B77-CC1D-A49B-3468-005BEE259B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00994B77-CC1D-A49B-3468-005BEE259B72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
